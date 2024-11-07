@@ -1,5 +1,5 @@
 <a href="#" target="_blank">
-  <img src="svg/tungbui.svg" width="1200" alt="trungquandev-official" />
+  <img src="svg/tungbui.svg" width="1200" alt="tungbui-official" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
