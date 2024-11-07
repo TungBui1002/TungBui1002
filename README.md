@@ -50,9 +50,7 @@
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=TungBui1002&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
   </a>
 </div>
-
-
-<br><br><br><br><br><br><br><br>
+<br>
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
 <!-- https://icons8.com -->
