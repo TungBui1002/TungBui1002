@@ -61,7 +61,7 @@
   <a href="https://www.youtube.com/@BBen1002" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="tungbui-youtube" />
   </a>
-  <a href="???" target="blank">
+  <a href="https://www.linkedin.com/in/b%C3%B9i-thanh-t%C3%B9ng-378769322" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="tungbui-linkedin" />
   </a>
   <a href="mailto:tungb100203@gmail.com" target="top">
